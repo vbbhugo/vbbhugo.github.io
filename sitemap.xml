@@ -3,38 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/post/hellovbb/</loc>
+    <loc>https://vbbhugo.github.io/post/hellovbb/</loc>
     <lastmod>2018-08-23T22:15:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://vbbhugo.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://vbbhugo.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/</loc>
+    <loc>https://vbbhugo.github.io/post/</loc>
     <lastmod>2018-08-23T22:15:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://vbbhugo.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://vbbhugo.github.io/tags/shameless-self-promotion/</loc>
+    <lastmod>2018-08-23T22:15:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://vbbhugo.github.io/tags/</loc>
+    <lastmod>2018-08-23T22:15:23-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vbbhugo.github.io/</loc>
     <lastmod>2018-08-23T22:15:23-04:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,12 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on vBrownbag Techtalk Hugo Demo page</title>
-    <link>http://www.example.com/tags/</link>
+    <link>https://vbbhugo.github.io/tags/</link>
     <description>Recent content in Tags on vBrownbag Techtalk Hugo Demo page</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Aug 2018 22:15:23 -0400</lastBuildDate>
     
-	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vbbhugo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shameless Self Promotion</title>
+      <link>https://vbbhugo.github.io/tags/shameless-self-promotion/</link>
+      <pubDate>Thu, 23 Aug 2018 22:15:23 -0400</pubDate>
+      
+      <guid>https://vbbhugo.github.io/tags/shameless-self-promotion/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
